@@ -1,6 +1,6 @@
 # HireACab
 Project based on cab booking system
-I alongwith my other four group members have done a project on Cab booking services named Hire A Cab. 
+I alongwith my other two group members have done a project on Cab booking services named Hire A Cab. 
 In this web app certain places are stored in the database along with their co-ordinates.
 The number of cars at a specific location is also stored.Admin has the provision to add and delete a place from the database and also alter the number of cars at a specific location.
 The passenger Will first have to log in in case he doesn’t have an account it will ask the user to register first and then the user can log in.
